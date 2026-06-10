@@ -18,6 +18,7 @@ const response = {
     }
 };
 ```
+
 ---
 
 ### 🛠️ Skills & Technologies
