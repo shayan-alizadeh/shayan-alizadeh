@@ -59,9 +59,10 @@ const response = {
 ### 🌐 Connect with Me
 
 <p align="left">
+  <a href="mailto:[YOUR_EMAIL]" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40" style="margin-right: 10px;" /></a>
   <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="_blank"><img src="https://github.com/cryyptoo11-jpg/cryyptoo11-jpg/blob/main/icons8-linkedin-48.png?raw=true" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;" /></a> &nbsp;
   <a href="https://t.me/[YOUR_TELEGRAM_USERNAME]" target="_blank"><img src="https://github.com/cryyptoo11-jpg/cryyptoo11-jpg/blob/main/icons8-telegram-logo-48.png?raw=true" alt="Telegram" width="40" height="40" style="margin-right: 10px;" /></a> &nbsp;
   <a href="https://x.com/[YOUR_X_USERNAME]" target="_blank"><img src="https://github.com/cryyptoo11-jpg/cryyptoo11-jpg/blob/main/icons8-x-logo-48.png?raw=true" alt="X" width="40" height="40" style="margin-right: 10px;" /></a> &nbsp;
   <a href="https://instagram.com/[YOUR_INSTAGRAM_USERNAME]" target="_blank"><img src="https://github.com/cryyptoo11-jpg/cryyptoo11-jpg/blob/main/icons8-instagram-logo-50.png?raw=true" alt="Instagram" width="40" height="40" style="margin-right: 10px;" /></a> &nbsp;
-  <a href="mailto:[YOUR_EMAIL]" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40" style="margin-right: 10px;" /></a>
+  
 </p>
